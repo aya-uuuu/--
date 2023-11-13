@@ -1,0 +1,14 @@
+html {
+  background-image: url(haikei.png);
+  background-repeat: repeat-y;
+}
+
+h1 {
+    color: #ae441d; 
+}
+
+.total span {
+  font-size: 10px;
+  color: #ae441d; 
+}
+
